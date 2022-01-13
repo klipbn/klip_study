@@ -29,7 +29,7 @@
 
 
 ## Используемые библиотеки
-*pandas*
-*seaborn*
-*pymystem3*
-*matplotlib.pyplot*
+*pandas*  
+*seaborn*  
+*pymystem3*  
+*matplotlib.pyplot*  
