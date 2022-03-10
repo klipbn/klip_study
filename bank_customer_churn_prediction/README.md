@@ -32,5 +32,5 @@
 ## Используемые библиотеки
 *pandas*     
 *matplotlib.pyplot*     
-*sklearn*
+*sklearn*  
 *numpy*
