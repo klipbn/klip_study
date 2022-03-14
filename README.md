@@ -6,10 +6,10 @@
 
 | № |Название проекта | Описание | Используемые библиотеки | Компания | 
 | :--: | :---------------------- | :---------------------- | :----------------------: |:---------------------- |
-| 1 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *pandas*, *matplotlib.pyplot*, *sklearn*, *numpy* | Яндекс.Практикум  |
+| 1 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум  |
 | 2 | [Определение количества лицензий ЛОЦМАН:КБ](determining_number_licenses_lodsman) | Определить оптимальное число требуемых сетевых лицензий ЛОЦМАН:КБ | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *scipy*,  *math*, *re* | АО "НИИР" |
 | 3 | [Анализ продаж компьютерных игр](analysis_sales_computer_games) | Выявить определяющие успешность компьютерной игры закономерности | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *scipy*,  *math* | Яндекс.Практикум |
-| 4 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *pandas*, *matplotlib.pyplot*, *sklearn*, *numpy* | Яндекс.Практикум |
+| 4 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
 | 5 | [Рекомендация тарифов](tariffs_recommendation) | Построить модель для определения тарифа | *pandas*, *sklearn*, *numpy*, *math* | Яндекс.Практикум |
 | 6 | [Определение перспективного тарифа для телеком-компании](determination_of_promising_tariff) | Провести активности пользователей операта с целью опредления лучшего тарифа | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn* | Яндекс.Практикум |
 | 7 | [Исследование объявлений о продаже квартир](research_of_apartments_ads_for_sales) | Провести анализ рынка недвижимости Санкт-Петербурга для оценки рынка | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
