@@ -8,7 +8,7 @@
 | :--: | :---------------------- | :---------------------- | :----------------------: |:---------------------- |
 | 1 | [Восстановление золота из руды](recovery_gold_from_ore) | Предсказать коэффициент восстановления золота из золотосодержащей руды | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy*, *seaborn* | Яндекс.Практикум  |
 | 2 | [Анализ продаж компьютерных игр](analysis_sales_computer_games) | Выявить определяющие успешность компьютерной игры закономерности | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *scipy*,  *math* | Яндекс.Практикум |
-| 3 | [Предсказание оттока клиентов](prediction_churn_bank_customer) | Спрогнозировать уход клиента банка | *sklearn*, *catboost*, *xgboost*, *matplotlib.pyplot*, *numpy* | Школы глубокого обучения ФПМИ МФТИ |
+| 3 | [Предсказание оттока клиентов](prediction_churn_bank_customer) | Спрогнозировать уход клиента банка | *sklearn*, *catboost*, *xgboost*, *matplotlib.pyplot*, *numpy* | Школа глубокого обучения ФПМИ МФТИ |
 | 4 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум  |
 | 5 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
 | 6 | [Рекомендация тарифов](tariffs_recommendation) | Построить модель для определения тарифа | *pandas*, *sklearn*, *numpy*, *math* | Яндекс.Практикум |
