@@ -9,11 +9,12 @@
 | 1 | [Восстановление золота из руды](recovery_gold_from_ore) | Предсказать коэффициент восстановления золота из золотосодержащей руды | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy*, *seaborn* | Яндекс.Практикум  |
 | 2 | [Анализ продаж компьютерных игр](analysis_sales_computer_games) | Выявить определяющие успешность компьютерной игры закономерности | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn*, *scipy*,  *math* | Яндекс.Практикум |
 | 3 | [Предсказание оттока клиентов](prediction_churn_bank_customer) | Спрогнозировать уход клиента банка | *sklearn*, *catboost*, *xgboost*, *matplotlib.pyplot*, *numpy* | Школа глубокого обучения ФПМИ МФТИ |
-| 4 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум  |
-| 5 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
-| 6 | [Рекомендация тарифов](tariffs_recommendation) | Построить модель для определения тарифа | *pandas*, *sklearn*, *numpy*, *math* | Яндекс.Практикум |
-| 7 | [Определение перспективного тарифа для телеком-компании](determination_of_promising_tariff) | Провести активности пользователей операта с целью опредления лучшего тарифа | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn* | Яндекс.Практикум |
-| 8 | [Исследование объявлений о продаже квартир](research_of_apartments_ads_for_sales) | Провести анализ рынка недвижимости Санкт-Петербурга для оценки рынка | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
-| 9 | [Защита персональных данных клиентов](protection_personal_data_clients) | Разработать способ шифрования данных клиентов | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
-| 10 | [Исследование надёжности заёмщиков](borrower_beliability_research) | Определить как разные факторы влияют на возврат кредита в срок | *pandas*, *seaborn*, *matplotlib.pyplot*, *pymystem3* | Яндекс.Практикум |
-| 11 | [Музыка больших городов](music_of_big_cities) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени и дня недели| *pandas* | Яндекс.Практикум |
+| 4 | [Определение стоимости автомобилей](determination_cost_car) | Построить модель для определения стоимости авто | *pandas*, *sklearn*, *lightgbm*, *xgboost*, *catboost*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
+| 5 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум  |
+| 6 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
+| 7 | [Рекомендация тарифов](tariffs_recommendation) | Построить модель для определения тарифа | *pandas*, *sklearn*, *numpy*, *math* | Яндекс.Практикум |
+| 8 | [Определение перспективного тарифа для телеком-компании](determination_of_promising_tariff) | Провести активности пользователей операта с целью опредления лучшего тарифа | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn* | Яндекс.Практикум |
+| 9 | [Исследование объявлений о продаже квартир](research_of_apartments_ads_for_sales) | Провести анализ рынка недвижимости Санкт-Петербурга для оценки рынка | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
+| 10 | [Защита персональных данных клиентов](protection_personal_data_clients) | Разработать способ шифрования данных клиентов | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
+| 11 | [Исследование надёжности заёмщиков](borrower_beliability_research) | Определить как разные факторы влияют на возврат кредита в срок | *pandas*, *seaborn*, *matplotlib.pyplot*, *pymystem3* | Яндекс.Практикум |
+| 12 | [Музыка больших городов](music_of_big_cities) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени и дня недели| *pandas* | Яндекс.Практикум |
