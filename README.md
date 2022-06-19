@@ -11,6 +11,7 @@
 | 3 | [Предсказание оттока клиентов](prediction_churn_bank_customer) | Спрогнозировать уход клиента банка | *sklearn*, *catboost*, *xgboost*, *matplotlib.pyplot*, *numpy* | Школа глубокого обучения ФПМИ МФТИ |
 | 4 | [Определение стоимости автомобилей](determination_cost_car) | Построить модель для определения стоимости авто | *pandas*, *sklearn*, *lightgbm*, *xgboost*, *catboost*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
 | 5 | [Прогнозирование заказов такси](predicting_taxi_orders) | Спрогнозировать количество заказов такси на следующий час | *pandas*, *sklearn*, *xgboost*, *catboost*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
+| 5 | [Определение возраста покупателей](determining_age_of_buyers) | Необходимо построить модель, которая по фотографии определит приблизительный возраст человека | *pandas*, *keras*, *matplotlib*, *seaborn*, *Computer Vision* | Яндекс.Практикум |
 | 6 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум  |
 | 7 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
 | 8 | [Рекомендация тарифов](tariffs_recommendation) | Построить модель для определения тарифа | *pandas*, *sklearn*, *numpy*, *math* | Яндекс.Практикум |
