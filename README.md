@@ -11,12 +11,13 @@
 | 3 | [Предсказание оттока клиентов](prediction_churn_bank_customer) | Спрогнозировать уход клиента банка | *sklearn*, *catboost*, *xgboost*, *matplotlib.pyplot*, *numpy* | Школа глубокого обучения ФПМИ МФТИ |
 | 4 | [Определение стоимости автомобилей](determination_cost_car) | Построить модель для определения стоимости авто | *pandas*, *sklearn*, *lightgbm*, *xgboost*, *catboost*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
 | 5 | [Прогнозирование заказов такси](predicting_taxi_orders) | Спрогнозировать количество заказов такси на следующий час | *pandas*, *sklearn*, *xgboost*, *catboost*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
-| 5 | [Определение возраста покупателей](determining_age_of_buyers) | Необходимо построить модель, которая по фотографии определит приблизительный возраст человека | *pandas*, *keras*, *matplotlib*, *seaborn*, *Computer Vision* | Яндекс.Практикум |
-| 6 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум  |
-| 7 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
-| 8 | [Рекомендация тарифов](tariffs_recommendation) | Построить модель для определения тарифа | *pandas*, *sklearn*, *numpy*, *math* | Яндекс.Практикум |
-| 9 | [Определение перспективного тарифа для телеком-компании](determination_of_promising_tariff) | Провести активности пользователей операта с целью опредления лучшего тарифа | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn* | Яндекс.Практикум |
-| 10 | [Исследование объявлений о продаже квартир](research_of_apartments_ads_for_sales) | Провести анализ рынка недвижимости Санкт-Петербурга для оценки рынка | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
-| 11 | [Защита персональных данных клиентов](protection_personal_data_clients) | Разработать способ шифрования данных клиентов | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
-| 12 | [Исследование надёжности заёмщиков](borrower_beliability_research) | Определить как разные факторы влияют на возврат кредита в срок | *pandas*, *seaborn*, *matplotlib.pyplot*, *pymystem3* | Яндекс.Практикум |
-| 13 | [Музыка больших городов](music_of_big_cities) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени и дня недели| *pandas* | Яндекс.Практикум |
+| 6 | [Определение возраста покупателей](determining_age_of_buyers) | Необходимо построить модель, которая по фотографии определит приблизительный возраст человека | *pandas*, *keras*, *matplotlib*, *seaborn*, *Computer Vision* | Яндекс.Практикум |
+| 7 | [Классификация комментариев](comments_classification) | Модель для классифицирования комментариев на позитивные и негативные | *pandas*, *lightgbm*, *nltk*, *xgboost*, *nlp* | Яндекс.Практикум |
+| 8 | [Отток клиентов](bank_customer_churn_prediction) | Прогноз, уйдёт клиент из банка в ближайшее время или нет | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум  |
+| 9 | [Выбор локации для скважины](choosing_location_for_well) | Определить, где бурить новую скважину | *sklearn*, *pandas*, *matplotlib.pyplot*, *numpy* | Яндекс.Практикум |
+| 10 | [Рекомендация тарифов](tariffs_recommendation) | Построить модель для определения тарифа | *pandas*, *sklearn*, *numpy*, *math* | Яндекс.Практикум |
+| 11 | [Определение перспективного тарифа для телеком-компании](determination_of_promising_tariff) | Провести активности пользователей операта с целью опредления лучшего тарифа | *pandas*, *numpy*, *matplotlib.pyplot*, *seaborn* | Яндекс.Практикум |
+| 12 | [Исследование объявлений о продаже квартир](research_of_apartments_ads_for_sales) | Провести анализ рынка недвижимости Санкт-Петербурга для оценки рынка | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
+| 13 | [Защита персональных данных клиентов](protection_personal_data_clients) | Разработать способ шифрования данных клиентов | *pandas*, *numpy*, *matplotlib.pyplot* | Яндекс.Практикум |
+| 14 | [Исследование надёжности заёмщиков](borrower_beliability_research) | Определить как разные факторы влияют на возврат кредита в срок | *pandas*, *seaborn*, *matplotlib.pyplot*, *pymystem3* | Яндекс.Практикум |
+| 15 | [Музыка больших городов](music_of_big_cities) | Сравнение предпочтений пользователей Яндекс.Музыки из Москвы и Санкт-Петербурга в зависимости от времени и дня недели| *pandas* | Яндекс.Практикум |
